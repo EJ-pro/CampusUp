@@ -199,10 +199,11 @@ section .mentoring-me::after{
 /* 사각형 크기와 간격, 내부 여백 설정 */
 section .mentoring-me .mentoring-inner{
   background-color:#fff;
-  width:21%;
+  width:45%;
   padding:2rem; 
   float:left;
   margin-right:5%;
+  margin-bottom:5%;
   cursor:pointer;
 }
 /* 마지막 사각형의 외부 여백 설정 */
