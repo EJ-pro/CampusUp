@@ -25,7 +25,15 @@ body {
   line-height: 2rem;
   font-weight: 700;
 }
-
+.title_text {
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 2rem;
+  font-weight: 700;
+}
+.highlight {
+  color: #ff6a6a;
+}
 .form {
   margin-top: 1.5rem;
 }
